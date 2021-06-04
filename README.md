@@ -10,14 +10,14 @@ Python Implementation of ["Road Segmentation for Remote Sensing Images using Adv
 <div align="center">
 	<img src="imgs/fig.1.png" width="50%" height="10%"/>
 </div>
-</a>
+</a> </pre>
 
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
 	<img src="imgs/fig.2.png" width="50%" height="50%"/>
 </div>
-</a>
+</a> </pre>
 
 <a href="http://tensorlayer.readthedocs.io">
 <div align="center">
